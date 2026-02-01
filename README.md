@@ -3,8 +3,14 @@ My articles on various topics from **Computer Science Basics** to **Software Eng
 Written with the focus to help my readers to build **mental models, real-world analogies, and simple explanations for complex problems**.  
 
 :link: **Author:**        Abhirup Roy  
-:link: **Blog Profile:**  https://blogs.techshowcases.com/  
-
+:link: **Portfolio:**     https://techshowcases.com/    
+:link: **Blog Profile:**  https://blogs.techshowcases.com/   
+ 
+ #### My Social Accounts:  
+ ___  
+  𝕏           :              https://x.com/reachabhirup/    
+  ℹ️          :             https://www.linkedin.com/in/reachabhirup/  
+ 
 --- 
 ## Version Controlling, Git & Github :octocat:  
 
